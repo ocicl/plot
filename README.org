@@ -1,0 +1,10 @@
+* plot
+
+A vega-lite DSL for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Lisp-Stat/plot.git   |
+| commit  | a26cb0e  |
+| systems | plot |
+|---------+-------------------------------------------|
+
