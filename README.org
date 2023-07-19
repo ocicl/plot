@@ -4,7 +4,7 @@ A vega-lite DSL for Common Lisp
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/Lisp-Stat/plot.git   |
-| commit  | a26cb0e  |
+| commit  | 82f84b3  |
 | systems | plot |
 |---------+-------------------------------------------|
 
