@@ -3,8 +3,7 @@
 A vega-lite DSL for Common Lisp
 
 |---------+-------------------------------------------|
-| source  | git:https://github.com/Lisp-Stat/plot.git   |
-| commit  | 82f84b3  |
-| systems | plot |
+| source  | git:https://github.com/Lisp-Stat/plot.git |
+| commit  | bb34d36                                   |
+| systems | plot                                      |
 |---------+-------------------------------------------|
-
